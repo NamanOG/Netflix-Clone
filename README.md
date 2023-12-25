@@ -8,11 +8,19 @@ A simple Netflix UI clone built with HTML and CSS.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+<<<<<<< Updated upstream
+=======
+- [Contributing](#contributing)
+>>>>>>> Stashed changes
 - [License](#license)
 
 ## Demo
 
+<<<<<<< Updated upstream
 Check out the live demo [Netflix](https://namanog.github.io/Netflix-Clone/).
+=======
+Check out the live demo [here](https://your-demo-link).
+>>>>>>> Stashed changes
 
 ## Features
 
@@ -38,6 +46,15 @@ Check out the live demo [Netflix](https://namanog.github.io/Netflix-Clone/).
 
 ## Usage
  Open `index.html` in your preferred web browser. 
+<<<<<<< Updated upstream
 
 ## License 
 This project is licensed under the [MIT License](LICENSE).
+=======
+ 
+## Contributing 
+Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md). 
+
+## License 
+This project is licensed under the [MIT License](LICENSE).
+>>>>>>> Stashed changes
