@@ -12,7 +12,7 @@ A simple Netflix UI clone built with HTML and CSS.
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link).
+Check out the live demo [Netflix](https://namanog.github.io/Netflix-Clone/).
 
 ## Features
 
