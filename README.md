@@ -41,3 +41,5 @@ Check out the live demo [Netflix](https://namanog.github.io/Netflix-Clone/)
 
 ## License 
 This project is licensed under the [MIT License](LICENSE).
+
+This project is for educational purposes and is made as a part of an internship.
