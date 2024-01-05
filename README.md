@@ -9,7 +9,7 @@ A simple Netflix UI clone built with HTML and CSS.
 
 ## Demo
 
-Check out the live demo [Netflix](https://namanog.github.io/Netflix-Clone/)
+Check out the live demo [Netflix](https://namanflix.netlify.app/)
 
 ## License 
 This project is licensed under the [MIT License](LICENSE).
